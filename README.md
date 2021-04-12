@@ -1,7 +1,6 @@
 # Hello, I am Rory. 👋.
 
-I'm a Software Engineer who is passionate about creating new projects and learn new things and new technologies. I am currently working for OVO Energy.
-
+I'm a Software Engineer who loves to learn, build new projects and avoid making coffee part of personality. Currently working as a senior developer/development lead at CP+.
 
 ## Find me around the web 🌎:
 - Chatting away/Reposting interesting stuff <a href="https://www.twitter.com/mrroryflint">Twittucer</a>💬

@@ -1,6 +1,6 @@
 # Hello, I am Rory. 👋.
 
-I'm a Software Engineer who loves to learn, build new projects and avoid making coffee part of personality. Currently working as a senior developer/development lead at CP+R.
+I'm a Software Engineer who loves to learn, build and write. I'm trying and failing to avoid coffee being a constituent part of my personality.  Currently working as a senior developer/development lead at CP+R.
 
 ## Find me around the web 🌎:
 - Chatting away/Reposting interesting stuff <a href="https://www.twitter.com/mrroryflint">Twitter</a>💬
